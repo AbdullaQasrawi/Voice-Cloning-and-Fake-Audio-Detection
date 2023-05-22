@@ -40,24 +40,3 @@ The fake audio detection system utilizes the CommonVoice dataset for training an
 3. Scale the features using StandardScaler.
 4. Train a binary classification model using the scaled features.
 5. Save the trained model for future use.
-
-## Usage
-
-Provide instructions on how to use the voice cloning and fake audio detection systems, including code examples and any specific steps or considerations.
-
-## License
-
-Specify the license under which the code and other project materials are released.
-
-## Acknowledgements
-
-Mention any acknowledgements or credits for any external libraries, code snippets, or datasets used in the project.
-
-## Contributing
-
-Specify guidelines for contributing to the project, including how others can submit bug reports, feature requests, and pull requests.
-
-## Contact
-
-Provide contact information (email, website, etc.) for users to get in touch with the project maintainers or contributors.
-
